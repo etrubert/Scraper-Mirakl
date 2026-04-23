@@ -1,0 +1,332 @@
+{
+  "total": 17,
+  "profiles": [
+    {
+      "nom_prenom": "Aghiles A.",
+      "url_malt": "https://www.malt.fr/profile/aghiles",
+      "github": "https://github.com/Axibord",
+      "linkedin": null,
+      "certifications": [
+        "https://www.francecompetences.fr/recherche/rncp/34545/"
+      ],
+      "niveau_experience": "5 ans",
+      "poste": "Senior AI Engineer | Fullstack, LangGraph, ADK",
+      "tarif_journalier": "725 €/jour",
+      "localisation": "Paris, 75014, France",
+      "langues": [
+        "Français",
+        "Anglais",
+        "kab"
+      ],
+      "domaines_expertise": [
+        "llm_stack",
+        "languages",
+        "deployment"
+      ]
+    },
+    {
+      "nom_prenom": "El Hadji Abdoulaye Thiam",
+      "url_malt": "https://www.malt.fr/profile/elhadjiabdoulayethiam",
+      "github": "https://github.com/hadjiabdoulaye",
+      "linkedin": null,
+      "certifications": [
+        "https://google.accredible.com/1c55ce19-5863-4d3d-80df-9123e454ad48#acc.ydecZXIQ"
+      ],
+      "niveau_experience": "7 ans",
+      "poste": "Senior AI Engineer & Data Scientist | Expert RAG",
+      "tarif_journalier": "850 €/jour",
+      "localisation": "Paris, 75014, France",
+      "langues": [
+        "Français",
+        "Anglais"
+      ],
+      "domaines_expertise": [
+        "llm_stack",
+        "ml_core",
+        "languages",
+        "automation",
+        "deployment"
+      ]
+    },
+    {
+      "nom_prenom": "Fedi Cherif",
+      "url_malt": "https://www.malt.fr/profile/fedicherif",
+      "github": null,
+      "linkedin": null,
+      "certifications": [
+        "https://www.credly.com/badges/48a02329-608f-4cca-88ad-c910f60f6055/linked_in_profile",
+        "https://www.credly.com/badges/b3170b21-ad4c-4af4-bb1c-0c78f5422ee8/linked_in_profile"
+      ],
+      "niveau_experience": "6 ans",
+      "poste": "Data Scientist / IA Engineer",
+      "tarif_journalier": "680 €/jour",
+      "localisation": "Paris, 75019, France",
+      "langues": [
+        "Arabe",
+        "Français",
+        "Anglais"
+      ],
+      "domaines_expertise": [
+        "llm_stack",
+        "ml_core",
+        "languages",
+        "automation",
+        "deployment"
+      ]
+    },
+    {
+      "nom_prenom": "Florent S.",
+      "url_malt": "https://www.malt.fr/profile/florentsarrot",
+      "github": null,
+      "linkedin": null,
+      "certifications": [
+        "https://coursera.org/share/57dbec41f193869eca1e7692a44c9e88",
+        "https://www.coursera.org/account/accomplishments/specialization/6ZEBJRRYNCF9"
+      ],
+      "niveau_experience": "non communiqué",
+      "poste": "AI Engineer FullStack | Python/React | Wordpress🚀",
+      "tarif_journalier": "590 €/jour",
+      "localisation": "Paris, France",
+      "langues": [
+        "Français",
+        "Anglais"
+      ],
+      "domaines_expertise": [
+        "llm_stack",
+        "languages",
+        "automation",
+        "deployment"
+      ]
+    },
+    {
+      "nom_prenom": "Long Jiao",
+      "url_malt": "https://www.malt.fr/profile/longjiao1",
+      "github": "https://github.com/martiniblack",
+      "linkedin": null,
+      "certifications": [
+        "https://www.credential.net/ef0f9e9a-bda2-4aac-a998-6d51f215f9f2"
+      ],
+      "niveau_experience": "10 ans",
+      "poste": "Data Scientist / Engineer & Formateur AI",
+      "tarif_journalier": "650 €/jour",
+      "localisation": "Paris, France",
+      "langues": [
+        "Français",
+        "Anglais",
+        "Chinois"
+      ],
+      "domaines_expertise": [
+        "ml_core",
+        "languages",
+        "data_stack"
+      ]
+    },
+    {
+      "nom_prenom": "Lourhmati Radwane",
+      "url_malt": "https://www.malt.fr/profile/lourhmatiradwane",
+      "github": null,
+      "linkedin": null,
+      "certifications": [],
+      "niveau_experience": "non communiqué",
+      "poste": "Data Cloud IA Engineer",
+      "tarif_journalier": "650 €/jour",
+      "localisation": "Paris, 75011, France",
+      "langues": [
+        "Français",
+        "Anglais"
+      ],
+      "domaines_expertise": [
+        "ml_core",
+        "languages",
+        "data_stack"
+      ]
+    },
+    {
+      "nom_prenom": "Miljan Stojiljkovic",
+      "url_malt": "https://www.malt.fr/profile/miljanstojiljkovic",
+      "github": "https://github.com/sto-miljan",
+      "linkedin": null,
+      "certifications": [
+        "https://credsverse.com/credentials/bda83cd5-ea1a-486c-9a43-6164117622ef",
+        "https://openclassrooms.com/fr/course-certificates/8255691727"
+      ],
+      "niveau_experience": "8 ans",
+      "poste": "AI Engineer | Data Scientist | Agents IA | Gen AI",
+      "tarif_journalier": "700 €/jour",
+      "localisation": null,
+      "langues": [
+        "Français",
+        "Anglais"
+      ],
+      "domaines_expertise": [
+        "llm_stack",
+        "ml_core",
+        "languages",
+        "data_stack",
+        "deployment"
+      ]
+    },
+    {
+      "nom_prenom": "Mohamed M'Rabet",
+      "url_malt": "https://www.malt.fr/profile/mohamedmrabet2",
+      "github": "https://github.com/mhmdmrabet",
+      "linkedin": null,
+      "certifications": [],
+      "niveau_experience": "non communiqué",
+      "poste": "Développeur Full-Stack | AI Engineer | Typescript",
+      "tarif_journalier": "650 €/jour",
+      "localisation": null,
+      "langues": [
+        "Français",
+        "Anglais"
+      ],
+      "domaines_expertise": [
+        "llm_stack",
+        "languages",
+        "automation",
+        "deployment"
+      ]
+    },
+    {
+      "nom_prenom": "Nicolas Mitchell",
+      "url_malt": "https://www.malt.fr/profile/nicolasmitchell",
+      "github": "https://github.com/nclsmitchell",
+      "linkedin": null,
+      "certifications": [],
+      "niveau_experience": "non communiqué",
+      "poste": "AI Engineer | GenAI/LLM/RAG - Production at Scale",
+      "tarif_journalier": "750 €/jour",
+      "localisation": "Paris, France",
+      "langues": [
+        "Allemand",
+        "Anglais",
+        "Français"
+      ],
+      "domaines_expertise": [
+        "llm_stack",
+        "languages",
+        "automation",
+        "deployment"
+      ]
+    },
+    {
+      "nom_prenom": "Clément L.",
+      "url_malt": "https://www.malt.fr/profile/python",
+      "github": "https://github.com/Clement-Lelievre",
+      "linkedin": null,
+      "certifications": [
+        "https://app.codility.com/cert/view/cert76EXGX-4X4CBVD4HPABJZUY/",
+        "https://app.codility.com/cert/view/certCJA2HD-Y3VT7WNNSG5KWQ7P/"
+      ],
+      "niveau_experience": "non communiqué",
+      "poste": "🚀 AI Engineer | 👨🏻‍💻 Python | MLOps | Agents",
+      "tarif_journalier": "800 €/jour",
+      "localisation": null,
+      "langues": [
+        "Français",
+        "Anglais",
+        "Espagnol",
+        "Italien",
+        "Allemand"
+      ],
+      "domaines_expertise": [
+        "ml_core",
+        "languages",
+        "deployment"
+      ]
+    },
+    {
+      "nom_prenom": "Julien Gourmelen",
+      "url_malt": "https://www.malt.fr/profile/juliengourmelendevops",
+      "github": "https://github.com/jgourmelen",
+      "linkedin": null,
+      "certifications": [],
+      "niveau_experience": "non communiqué",
+      "poste": "DevOps 🔥/ Cloud / Kubernetes / AWS / Ansible",
+      "tarif_journalier": "non communiqué",
+      "localisation": "Paris",
+      "langues": [],
+      "domaines_expertise": [
+        "deployment"
+      ]
+    },
+    {
+      "nom_prenom": "QuentinN.",
+      "url_malt": "https://www.malt.fr/profile/quentinnivelais",
+      "github": "https://github.com/KONFeature",
+      "linkedin": null,
+      "certifications": [],
+      "niveau_experience": "5 ans",
+      "poste": "Développeurs Android java / kotlin, Back spring",
+      "tarif_journalier": "non communiqué",
+      "localisation": "Paris",
+      "langues": [],
+      "domaines_expertise": []
+    },
+    {
+      "nom_prenom": "Antoine Carle",
+      "url_malt": "https://www.malt.fr/profile/antoinecarle",
+      "github": null,
+      "linkedin": null,
+      "certifications": [],
+      "niveau_experience": "non communiqué",
+      "poste": "Claude Code | Transformation No-Code vers Code - Malt",
+      "tarif_journalier": "non communiqué",
+      "localisation": null,
+      "langues": [],
+      "domaines_expertise": []
+    },
+    {
+      "nom_prenom": "Antoine Huot",
+      "url_malt": "https://www.malt.fr/profile/antoinehuot",
+      "github": null,
+      "linkedin": null,
+      "certifications": [],
+      "niveau_experience": "non communiqué",
+      "poste": "AI Product Engineer | Expert Souveraineté",
+      "tarif_journalier": "non communiqué",
+      "localisation": null,
+      "langues": [],
+      "domaines_expertise": []
+    },
+    {
+      "nom_prenom": "Florian Carre",
+      "url_malt": "https://www.malt.fr/profile/floriancarre",
+      "github": null,
+      "linkedin": null,
+      "certifications": [],
+      "niveau_experience": "non communiqué",
+      "poste": "Développeur Frontend ayant a coeur le produit",
+      "tarif_journalier": "non communiqué",
+      "localisation": null,
+      "langues": [],
+      "domaines_expertise": []
+    },
+    {
+      "nom_prenom": "Henri Mirande",
+      "url_malt": "https://www.malt.fr/profile/henrimirande",
+      "github": null,
+      "linkedin": null,
+      "certifications": [],
+      "niveau_experience": "non communiqué",
+      "poste": "Fractional CTO | Expert GenAI",
+      "tarif_journalier": "non communiqué",
+      "localisation": null,
+      "langues": [],
+      "domaines_expertise": []
+    },
+    {
+      "nom_prenom": "Joel Solis",
+      "url_malt": "https://www.malt.fr/profile/joelsolis",
+      "github": null,
+      "linkedin": null,
+      "certifications": [],
+      "niveau_experience": "non communiqué",
+      "poste": "Senior Product & Tech leader | AI Enthusiast",
+      "tarif_journalier": "non communiqué",
+      "localisation": null,
+      "langues": [],
+      "domaines_expertise": []
+    }
+  ]
+}
