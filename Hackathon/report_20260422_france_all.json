@@ -1,0 +1,410 @@
+{
+  "generated_from": "hackathons_scored.json + projects_raw.json",
+  "filter": {
+    "france_only": true,
+    "min_score": 20,
+    "keep_only": false
+  },
+  "total_hackathons": 25,
+  "hackathons": [
+    {
+      "id": "devpost:aa2357a1b552",
+      "title": "From LLM to Agentic AI (UTOPIA x KRYPTOSHPERE)",
+      "url": "https://from-llm-to-agentic-ai.devpost.com/",
+      "platform": "devpost",
+      "city_fr": "Cergy",
+      "location": "Essec Business School, Cergy",
+      "is_online": false,
+      "start_date": "Apr 05 - 06, 2025",
+      "end_date": "",
+      "prize_pool": "€4,050",
+      "relevance_score": 62,
+      "ai_keywords_found": ["ai", "llm", "agentic"],
+      "tools_found": ["Agents"],
+      "target_roles_found": [],
+      "projects_count": 18,
+      "winners_count": 0,
+      "projects": [
+        {
+          "title": "Tripify",
+          "tagline": "Change the travel experience forever by creating personalised itinerary for your trips.",
+          "url": "https://devpost.com/software/tripify-5drex1",
+          "github": "https://github.com/EloZiko/Essec-Hackathon-from-LLMs-to-AGENTIC-AI.git",
+          "external_links": ["https://github.com/EloZiko/Essec-Hackathon-from-LLMs-to-AGENTIC-AI.git"],
+          "built_with": ["amazon-web-services", "flask", "python"],
+          "is_winner": false,
+          "winner_labels": [],
+          "participants": [
+            {"name": "sfarmehd Sfar", "github": "https://github.com/sfarmehd", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/sfarmehd"}
+          ]
+        },
+        {
+          "title": "DIA26",
+          "tagline": "DeepFender : Smart Email Guardian ! Detect, Explain, and Defend Against Phishing in Real-Time",
+          "url": "https://devpost.com/software/dia26",
+          "github": "https://github.com/JeremieFormey/Hackathon-DIA26.git",
+          "external_links": ["https://github.com/JeremieFormey/Hackathon-DIA26.git"],
+          "built_with": ["amazon-dynamodb", "amazon-web-services", "bedrock", "boto3", "google", "google-gmail-oauth", "html", "javascript", "json", "langchain", "mistral", "python", "sandbox", "vector", "virus-total", "waterflai"],
+          "is_winner": false,
+          "winner_labels": [],
+          "participants": [
+            {"name": "Lucas Barouky", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/lucas-barouky"}
+          ]
+        },
+        {
+          "title": "Hyrai",
+          "tagline": "ntroducing Hyrai, the groundbreaking HR solution that redefines recruitment. Powered by advanced artificial intelligence.",
+          "url": "https://devpost.com/software/hyrai",
+          "github": "https://github.com/RH-Agent-AI/hyria/tree/main",
+          "external_links": ["https://github.com/RH-Agent-AI/hyria/tree/main"],
+          "built_with": ["fastapi", "javascript", "node.js", "python", "streamlit"],
+          "is_winner": false,
+          "winner_labels": [],
+          "participants": [
+            {"name": "Youssef Saidi", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/youssef-saidi203"},
+            {"name": "Pantalacci Alexandre", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/a03-pantalacci"}
+          ]
+        },
+        {
+          "title": "Voice tutor",
+          "tagline": "Vocal Ai tutoring",
+          "url": "https://devpost.com/software/voice-tutor-jpety5",
+          "github": "https://github.com/alexisvannson/Mustard-co",
+          "external_links": ["https://github.com/alexisvannson/Mustard-co"],
+          "built_with": ["daily", "deepgram", "elevenlabs", "pipecat"],
+          "is_winner": false,
+          "winner_labels": [],
+          "participants": [
+            {"name": "Alexis VANNSON", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/vannson-alexis"},
+            {"name": "Delphin Barankanira", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/delphin171"}
+          ]
+        },
+        {
+          "title": "Braindone.AI",
+          "tagline": "Effortlessly create, manage, and publish AI-generated media content with our end-to-end automation platform powered by LLMs and Agentic AI.",
+          "url": "https://devpost.com/software/braindone-ai",
+          "github": "https://github.com/Killianx256/LLMs-to-Agentic-AI/tree/main",
+          "external_links": ["https://github.com/Killianx256/LLMs-to-Agentic-AI/tree/main"],
+          "built_with": ["amazon-web-services", "docker", "langchain", "mistral", "python"],
+          "is_winner": false,
+          "winner_labels": [],
+          "participants": [
+            {"name": "Nicolas RENOIR", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/rnicolas1202"}
+          ]
+        },
+        {
+          "title": "TUMai Lagent",
+          "tagline": "LAgent is an AI-powered property management platform that automates tenant support, maintenance, tax tracking, and optimizes revenue, saving time and maximizing returns for landlords.",
+          "url": "https://devpost.com/software/tumai-lagent",
+          "github": "https://github.com/VishiATChoudhary/TUMai-LaGent",
+          "external_links": ["https://github.com/VishiATChoudhary/TUMai-LaGent", "https://github.com/LaurenzSommerlad/TUMai-goes-Paris-ESSEC-Hack-Backend-Project-LaGent", "https://github.laurenzsommerlad.com/TUMai-goes-Paris-ESSEC-Hack-Backend-Project-LaGent/"],
+          "built_with": ["amazon-web-services", "fastapi", "figma", "mistral", "python", "react", "superbase", "tailwindcss"],
+          "is_winner": false,
+          "winner_labels": [],
+          "participants": [
+            {"name": "Laurenz Sommerlad", "github": "https://github.com/LaurenzSommerlad", "linkedin": "https://www.linkedin.com/in/laurenzsommerlad/", "twitter": "https://twitter.com/Lauros_World", "website": "https://laurenzsommerlad.com", "devpost_profile": "https://devpost.com/laurenz-sommerlad"},
+            {"name": "kessleraqu", "github": "https://github.com/kessleraqu", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/kessleraqu"},
+            {"name": "Vishisht Choudhary", "github": "https://github.com/VishiATChoudhary", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/VishiATChoudhary"}
+          ]
+        },
+        {
+          "title": "SaiteAI",
+          "tagline": "A project to make building managers gain time and money by providing agents assistance based on many takes of the actual construction site.",
+          "url": "https://devpost.com/software/saiteai",
+          "github": "https://github.com/Farx1/SaiteIA",
+          "external_links": ["http://34.217.194.254:5678/workflow/G14HTNarwVhvGRSV", "https://www.youtube.com/watch?v=QNuC9rK53i8", "https://github.com/Farx1/SaiteIA"],
+          "built_with": ["n8n"],
+          "is_winner": false,
+          "winner_labels": [],
+          "participants": [
+            {"name": "Guillaume DERAMCHI", "github": "https://github.com/Guillaume18100", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/Guillaume18100"}
+          ]
+        },
+        {
+          "title": "City Scout",
+          "tagline": "City Scout is your AI city planner — it reads your vibe, time & mood from your Google Maps activity to suggest real-time spots you'll love.",
+          "url": "https://devpost.com/software/city-scout-sh7q0r",
+          "github": "https://github.com/Roshan-Velpula/city-scout-compass",
+          "external_links": ["https://www.loom.com/share/c5da412fd0994c6cbee489307a89c453", "https://github.com/Roshan-Velpula/city-scout-compass"],
+          "built_with": ["google-maps-activity-takeout", "google-places", "mistral-7b", "node.js-(lovable)", "openai-agents-sdk", "perplexity-api", "python", "react.js"],
+          "is_winner": false,
+          "winner_labels": [],
+          "participants": [
+            {"name": "Roshan Velpula", "github": "https://github.com/Roshan-Velpula", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/Roshan-Velpula"},
+            {"name": "Irene SUNNY", "github": "https://github.com/IreneSunny96", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/IreneSunny96"},
+            {"name": "Nikita Chistyakov", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/nikitachistyakov"},
+            {"name": "Fayed Al Rashid", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/fayed-alrashid"}
+          ]
+        },
+        {
+          "title": "POLICAI",
+          "tagline": "POLICAI is your AI-powered assistant that helps you understand what you're agreeing to.",
+          "url": "https://devpost.com/software/policai",
+          "github": "https://github.com/elenewang/Hackathon_Utopia_LaPeche/",
+          "external_links": ["https://github.com/elenewang/Hackathon_Utopia_LaPeche/"],
+          "built_with": ["langflow", "mistral", "react", "vite"],
+          "is_winner": false,
+          "winner_labels": [],
+          "participants": [
+            {"name": "Elene WANG", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/b00818345"}
+          ]
+        },
+        {
+          "title": "Trustee - AI-Powered Scam Detector",
+          "tagline": "Your intelligent companion for safe online marketplace transactions.",
+          "url": "https://devpost.com/software/trustee-ai-powered-scam-detector",
+          "github": "https://github.com/Jaddevvv/Hackathon-From-LLM-To-Agentic-AI/",
+          "external_links": ["https://github.com/Jaddevvv/Hackathon-From-LLM-To-Agentic-AI/", "https://jaddevvv.github.io/Hackathon-From-LLM-To-Agentic-AI/", "https://www.figma.com/design/j5woVV65AELFd9Esi4TY30/"],
+          "built_with": ["amazon-web-services", "chrome", "fastapi", "langchain", "mistral", "next.js", "python", "pytorch", "react.js", "serpapi"],
+          "is_winner": false,
+          "winner_labels": [],
+          "participants": [
+            {"name": "Jordan B", "github": "https://github.com/jordanbmrd", "linkedin": "https://www.linkedin.com/in/jordanbaumard/", "twitter": "", "website": "https://resume.jordanbaumard.fr", "devpost_profile": "https://devpost.com/jordanbmrd"}
+          ]
+        },
+        {
+          "title": "aThesis.ai",
+          "tagline": "Provide short financial analysis with the mindsets of the best in their field",
+          "url": "https://devpost.com/software/athesis-ai",
+          "github": "https://github.com/9992D/KS-x-Utopia-Hackathon",
+          "external_links": ["https://github.com/9992D/KS-x-Utopia-Hackathon"],
+          "built_with": ["mistral", "python", "react", "typescript"],
+          "is_winner": false,
+          "winner_labels": [],
+          "participants": [
+            {"name": "Louis Doidy", "github": "https://github.com/lwi00", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/lwi00"}
+          ]
+        },
+        {
+          "title": "FakeNet",
+          "tagline": "AI-powered system that detects fake news, maps influence networks, and identifies bad actors.",
+          "url": "https://devpost.com/software/fakenet",
+          "github": "https://github.com/Jaymun723/polymagiciens/",
+          "external_links": ["https://github.com/Jaymun723/polymagiciens/"],
+          "built_with": ["agent", "amazon-ec2", "amazon-web-services", "mistral", "networkx", "postgresql", "python", "pytorch", "sagemaker"],
+          "is_winner": false,
+          "winner_labels": [],
+          "participants": [
+            {"name": "Victor Caro", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/victor-caro"}
+          ]
+        },
+        {
+          "title": "Sherlock",
+          "tagline": "An AI copilot that help you investigate security breaches within your company.",
+          "url": "https://devpost.com/software/sherlock-01lmuk",
+          "github": "https://github.com/mlengineershub/sherlock",
+          "external_links": ["https://github.com/mlengineershub/sherlock"],
+          "built_with": ["python"],
+          "is_winner": false,
+          "winner_labels": [],
+          "participants": [
+            {"name": "Azzedine Idir AIT SAID", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/aitsaid-azzedineidir"},
+            {"name": "Ahmed", "github": "https://github.com/V7W3D", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/V7W3D"}
+          ]
+        },
+        {
+          "title": "Torniquet",
+          "tagline": "Torniquet is an AI- and AWS-powered streamlining solution for medical professionals.",
+          "url": "https://devpost.com/software/torniquet",
+          "github": "https://github.com/benzoadrian/Shaken-not-stirred-Hackathon",
+          "external_links": ["https://github.com/benzoadrian/Shaken-not-stirred-Hackathon"],
+          "built_with": ["amazon-web-services", "claude", "meta", "python", "selenium"],
+          "is_winner": false,
+          "winner_labels": [],
+          "participants": [
+            {"name": "Utu Kaita", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/utukaita"},
+            {"name": "Adrian Benzo", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/benzoadrian"},
+            {"name": "Luxin Gabriel Matasaru", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/luxin-gabriel"}
+          ]
+        },
+        {
+          "title": "ON TRACKS",
+          "tagline": "The ultimate companion for ALL students: one single app crafting your daily roadmap.",
+          "url": "https://devpost.com/software/on-tracks",
+          "github": "https://github.com/briacSck/ON-TRACKS-AI-Agents-Hackathon-",
+          "external_links": ["https://github.com/briacSck/ON-TRACKS-AI-Agents-Hackathon-"],
+          "built_with": ["amazon-opensearch-serverless", "amazon-web-services", "aws-bedrock", "claude-sonnet-3.7", "duckduckgo-web-agent", "langchain", "mistral", "perplexity-api", "wasp"],
+          "is_winner": false,
+          "winner_labels": [],
+          "participants": [
+            {"name": "Sensey181 Sene", "github": "https://github.com/Sensey181", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/Sensey181"},
+            {"name": "thomzz13", "github": "https://github.com/thomzz13", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/thomzz13"},
+            {"name": "Briac Sockalingum", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/briac"},
+            {"name": "Sara FEORE", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/sara-feore"},
+            {"name": "Fayed Al Rashid", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/fayed-alrashid"}
+          ]
+        },
+        {
+          "title": "ComplianceAI-Agent (SpartIA Guardian)",
+          "tagline": "ComplianceAI Agent helps SMEs navigate cybersecurity compliance affordably & efficiently.",
+          "url": "https://devpost.com/software/complianceai-agent",
+          "github": "https://github.com/shetsecure/ComplianceAI-Agent",
+          "external_links": ["https://github.com/shetsecure/ComplianceAI-Agent", "https://github.com/AsriMed/uncompliant_aws_infra"],
+          "built_with": ["amazon-web-services", "fastapi", "github", "github-jobs", "javascript", "langchain", "mistral", "python", "terraform"],
+          "is_winner": false,
+          "winner_labels": [],
+          "participants": [
+            {"name": "Mohammed ELASRI", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/mohammed-elasri6"},
+            {"name": "Amine Marzouki", "github": "https://github.com/shetsecure", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/shetsecure"},
+            {"name": "Vincksi", "github": "https://github.com/Vincksi", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/Vincksi"}
+          ]
+        },
+        {
+          "title": "SafeQR",
+          "tagline": "Your AI shield against phishing links and malicious QR codes.",
+          "url": "https://devpost.com/software/safeqr-uw2x5o",
+          "github": "https://github.com/18Wangu/hackathon-essec",
+          "external_links": ["https://github.com/18Wangu/hackathon-essec"],
+          "built_with": ["crewai", "mistral", "next", "typescript"],
+          "is_winner": false,
+          "winner_labels": [],
+          "participants": [
+            {"name": "Valentin BONNET", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/valentinbonnet79"},
+            {"name": "Théo Prémartin", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/theopremartin"}
+          ]
+        },
+        {
+          "title": "Eika",
+          "tagline": "Eika's project for this wonderful hackathon !",
+          "url": "https://devpost.com/software/assurflow",
+          "github": "https://github.com/izinii/Hackathon-ESSEC-Eika/tree/main",
+          "external_links": ["https://github.com/izinii/Hackathon-ESSEC-Eika/tree/main"],
+          "built_with": ["amazon-web-services", "python", "sql"],
+          "is_winner": false,
+          "winner_labels": [],
+          "participants": [
+            {"name": "Kylie Wu", "github": "https://github.com/Kir-w", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/Kir-w"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai_tinkerers:20aec8bf48a4",
+      "title": "AI Tinkerers Paris: Docker Agentic Workflows (Devoxx Kickoff)",
+      "url": "https://paris.aitinkerers.org/p/ai-tinkerers-paris-docker-agentic-workflows-devoxx-kickoff",
+      "platform": "ai_tinkerers",
+      "city_fr": "Paris",
+      "location": "paris",
+      "is_online": false,
+      "start_date": "",
+      "end_date": "",
+      "prize_pool": "",
+      "relevance_score": 62,
+      "ai_keywords_found": ["ai", "agent", "agentic"],
+      "tools_found": ["Agents"],
+      "target_roles_found": [],
+      "projects_count": 0,
+      "winners_count": 0,
+      "projects": []
+    },
+    {
+      "id": "devpost:9b7ee2f424b6",
+      "title": "Alan x Mistral: AI Health Hack",
+      "url": "https://alan-x-mistral-health-hack.devpost.com/",
+      "platform": "devpost",
+      "city_fr": "Paris",
+      "location": "Paris, France",
+      "is_online": false,
+      "start_date": "Apr 11, 2026",
+      "end_date": "",
+      "prize_pool": "€5,500",
+      "relevance_score": 59,
+      "ai_keywords_found": ["ai"],
+      "tools_found": ["Mistral", "Agents"],
+      "target_roles_found": [],
+      "projects_count": 24,
+      "winners_count": 0,
+      "projects": [
+        {"title": "innervoice", "tagline": "innerVoice is a mental-health support app that uses your cloned voice.", "url": "https://devpost.com/software/innervoice-m9d4oy", "github": "https://github.com/ngaude/hackathon_alan_mistral_innvervoice/", "external_links": ["https://github.com/ngaude/hackathon_alan_mistral_innvervoice/"], "built_with": ["elevenlabs", "mistral", "node.js", "react-native", "sqlite"], "is_winner": false, "winner_labels": [], "participants": [{"name": "nicolas gaude", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/nicolas-dm-gaude"}]},
+        {"title": "HealthDecoded", "tagline": "HealthDecoded explains glucose events in real-time.", "url": "https://devpost.com/software/healthdecoded", "github": "https://github.com/PaulLouisF/health-interpreter", "external_links": ["https://github.com/PaulLouisF/health-interpreter"], "built_with": ["elevenlabs", "mistral", "python", "thryves"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Fouesnant Paul-Louis", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/paul-fouesnant"}]},
+        {"title": "Sentinel", "tagline": "A proactive health companion that merges environmental risk with wearable context.", "url": "https://devpost.com/software/sentinel-gyf863", "github": "https://github.com/tihado/alan-hack", "external_links": ["https://alan-hack-liard.vercel.app/", "https://github.com/tihado/alan-hack"], "built_with": ["mistral", "neon", "nextjs", "postgresql", "react", "thryve", "vercel"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Hanh Thi-Hong Tran", "github": "https://github.com/honghanhh", "linkedin": "", "twitter": "", "website": "https://zootopi.dev/", "devpost_profile": "https://devpost.com/honghanhh"}, {"name": "Viet-Tien Ngoc", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/tiena2cva"}]},
+        {"title": "Ailan", "tagline": "Your health data already knows your habits.", "url": "https://devpost.com/software/ailan", "github": "https://github.com/cfoltran/Ailan", "external_links": ["https://github.com/cfoltran/Ailan"], "built_with": ["agent", "ai", "flutter", "sql"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Clément Foltran", "github": "https://github.com/cfoltran", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/cfoltran"}, {"name": "Adle Ben Salem", "github": "https://github.com/Jeerhz", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/Jeerhz"}, {"name": "Payal Jagwani", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/payaljagwani14"}]},
+        {"title": "Arwen", "tagline": "An AI agent that handles the entire patient journey from discharge to the next appointment", "url": "https://devpost.com/software/aftermed", "github": "https://github.com/fisheatfish/arwen", "external_links": ["https://github.com/fisheatfish/arwen"], "built_with": ["elevenlabs", "mistral", "pydantic", "python", "react", "typescript"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Gireg Roussel", "github": "https://github.com/arthemide", "linkedin": "", "twitter": "", "website": "https://gireg.fr", "devpost_profile": "https://devpost.com/arthemide"}, {"name": "Karim", "github": "https://github.com/fisheatfish", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/fisheatfish"}, {"name": "Pierre MULLER", "github": "https://github.com/PideurM", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/PideurM"}, {"name": "Théo Moreau", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/theomoreau55"}]},
+        {"title": "Alan Med", "tagline": "Snap your prescription, never miss a dose.", "url": "https://devpost.com/software/alan-med", "github": "https://github.com/Alex30555/alan-hackathon", "external_links": ["https://alan-med.vercel.app/", "https://github.com/Alex30555/alan-hackathon"], "built_with": ["mistral", "node.js", "react", "vercel"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Arthur Berman", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/arthberman96"}, {"name": "Alexandre Pages", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/alex-pages145"}]},
+        {"title": "Vital", "tagline": "We gather, analyze and interpret all of your health data so you don't have to.", "url": "https://devpost.com/software/vital-ky7vx8", "github": "https://github.com/amaurydelille/condense-labs", "external_links": ["https://github.com/amaurydelille/condense-labs"], "built_with": ["mistral", "next", "supabase", "tailwind", "thryve", "typescript"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Arthur LEFEBVRE", "github": "https://github.com/Snaw80", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/arthurloup-l"}, {"name": "Amaury Delille", "github": "https://github.com/amaurydelille", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/amaurydelille"}]},
+        {"title": "Mia", "tagline": "Instant AI analysis for fertility PDFs, plain language, zero panic.", "url": "https://devpost.com/software/fertility-companion", "github": "https://github.com/TristanLecourtois/alan_mistral_hack", "external_links": ["https://github.com/TristanLecourtois/alan_mistral_hack"], "built_with": ["mistral", "python"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Nubia Tomita", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/nubiatomita1"}, {"name": "Max", "github": "https://github.com/mxmk", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/mxmk"}, {"name": "Alice Devilder", "github": "", "linkedin": "https://www.linkedin.com/in/alice-devilder/", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/alice-devilder"}, {"name": "Tristan Lecourtois", "github": "https://github.com/TristanLecourtois", "linkedin": "", "twitter": "", "website": "https://tristanlecourtois.github.io", "devpost_profile": "https://devpost.com/TristanLecourtois"}]},
+        {"title": "Albernation", "tagline": "Sleep is broken. Albernation fixes it.", "url": "https://devpost.com/software/albernation", "github": "https://github.com/jc77743/sleep-schedule-whisperer", "external_links": ["https://github.com/jc77743/sleep-schedule-whisperer", "https://sleep-schedule-whisperer.lovable.app/"], "built_with": ["javascript", "lovable", "mistral", "python", "thryve"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Sanket Kashyap", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/sanket-dtu"}, {"name": "Jérémy Jodeau", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/jeremy-jodeau"}, {"name": "Jay Chopra", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/jc77743"}, {"name": "Liyang GUO", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/liyang-guo"}]},
+        {"title": "nutrimin", "tagline": "Something great", "url": "https://devpost.com/software/nutrimin", "github": "https://github.com/LeopoldTr/nutrimin", "external_links": ["https://nutrimin.vercel.app", "https://github.com/LeopoldTr/nutrimin"], "built_with": ["bun", "next"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Pierre-Henri Delville", "github": "https://github.com/Just-PH", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/Just-PH"}, {"name": "Leopold T", "github": "https://github.com/LeopoldTr", "linkedin": "", "twitter": "", "website": "https://moviegate.app", "devpost_profile": "https://devpost.com/LeopoldTr"}, {"name": "Edouard Foussier", "github": "https://github.com/edouardfoussier", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/edouardfoussier"}]},
+        {"title": "Signa", "tagline": "Signa unifies your blood tests, wearable data and medical records into one AI-powered health companion.", "url": "https://devpost.com/software/signa-x96yg3", "github": "https://github.com/robinzamora/signa", "external_links": ["https://signa.ropau.fr/", "https://github.com/robinzamora/signa"], "built_with": ["claude", "mistral", "next", "postgres", "react", "react-19", "supabase", "tailwind-v4", "vercel"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Paul Demarecaux", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/pauldemarecaux"}, {"name": "Robin ZAMORA", "github": "https://github.com/robinzamora", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/robinzamora"}]},
+        {"title": "Healthy Bites for Hungry Marmottes", "tagline": "We read your bio-signals and find the right food at a real restaurant near you.", "url": "https://devpost.com/software/healthy-bites-for-hungry-marmottes", "github": "https://github.com/AlbertoBastero/alan-ai-hack", "external_links": ["https://github.com/AlbertoBastero/alan-ai-hack"], "built_with": ["python"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Mehdi Millot", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/mehdi974"}, {"name": "Alberto Bastero Anegon", "github": "https://github.com/AlbertoBastero", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/AlbertoBastero"}]},
+        {"title": "Aura", "tagline": "Aura is an AI companion for people living with tinnitus & hyperacusis.", "url": "https://devpost.com/software/aura-sh6wbu", "github": "https://github.com/MathiasD07/aura-ai", "external_links": ["https://github.com/MathiasD07/aura-ai"], "built_with": ["mistral", "nextjs", "react", "tailwind"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Mathias Davin", "github": "", "linkedin": "https://www.linkedin.com/in/mathiasdavin", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/Mathias7"}, {"name": "Chloé Lesage", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/chloeles76"}]},
+        {"title": "Clover", "tagline": "Find the specialist of specialists for your symptoms.", "url": "https://devpost.com/software/clover-v8g3dj", "github": "https://github.com/leo-ars/alan-mistral-hackathon", "external_links": ["https://github.com/leo-ars/alan-mistral-hackathon", "https://front-app.leo-sandbox.workers.dev/"], "built_with": ["chromadb", "cloudfare-workers", "cloudflare", "eleven-labs", "mistral", "nebius", "pnpm", "turborepo", "typescript", "zod"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Louis Brulé Naudet", "github": "https://github.com/louisbrulenaudet", "linkedin": "", "twitter": "https://twitter.com/BruleNaudet", "website": "https://louisbrulenaudet.com", "devpost_profile": "https://devpost.com/louisbrulenaudet"}, {"name": "Leo Arsenin", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/leo-ars"}]},
+        {"title": "Hippo", "tagline": "Hippo gives patients the second conversation they never had.", "url": "https://devpost.com/software/hippo-lsg1o2", "github": "https://github.com/BoualamHamza/Alan-hackaton", "external_links": ["https://github.com/BoualamHamza/Alan-hackaton"], "built_with": ["elevenlabs", "fastapi", "mistral", "python", "thryve"], "is_winner": false, "winner_labels": [], "participants": [{"name": "poupouguinguin ATTOUMANI", "github": "https://github.com/poupouguinguin", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/poupouguinguin"}, {"name": "Mayy Miled", "github": "https://github.com/maymiled", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/maymiled"}, {"name": "01Giuliano01 Aldarwish", "github": "https://github.com/01Giuliano01", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/01Giuliano01"}, {"name": "Hmb Hamza", "github": "https://github.com/BoualamHamza", "linkedin": "", "twitter": "", "website": "http://boualamhamza.github.io", "devpost_profile": "https://devpost.com/BoualamHamza"}]},
+        {"title": "Mora", "tagline": "We built Milo - an AI robotic arm that delivers pills on voice command.", "url": "https://devpost.com/software/mora-n4lodh", "github": "https://github.com/mhdirnjbr/parkison-arm", "external_links": ["https://github.com/mhdirnjbr/parkison-arm"], "built_with": ["elevenlab", "mistral"], "is_winner": false, "winner_labels": [], "participants": [{"name": "nan0 yster", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/tas-nano"}, {"name": "Mahdi Ranjbar", "github": "https://github.com/mhdirnjbr", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/mhdirnjbr"}]},
+        {"title": "CST", "tagline": "Mo Studios transforms wearable health data into personalized coaching content.", "url": "https://devpost.com/software/cst", "github": "https://github.com/ChristophePRAT/Hackalan", "external_links": ["https://github.com/ChristophePRAT/Hackalan"], "built_with": ["next.js-16", "react", "tailwind", "turbopack", "typescript"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Samuel RAJZMAN", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/srajzman16"}, {"name": "Tassilo Westphalen", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/tassilowestphalen55"}, {"name": "Christophe Prat", "github": "https://github.com/ChristophePRAT", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/ChristophePRAT"}]},
+        {"title": "Vital", "tagline": "Openclaw for healthcare. Alan Mo's custom intelligent layer.", "url": "https://devpost.com/software/vital-f96crx", "github": "https://github.com/spideystreet/V.I.T.A.L", "external_links": ["https://github.com/spideystreet/V.I.T.A.L"], "built_with": ["expo.io", "python", "react"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Alexis Rodrigues", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/a-rodriguespro1"}, {"name": "Malik B", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/malik-chan94420"}, {"name": "Hicham Djebali", "github": "https://github.com/spideystreet", "linkedin": "https://linkedin.com/in/hicham-djebali", "twitter": "https://twitter.com/spideystreet", "website": "", "devpost_profile": "https://devpost.com/dhicham-pro"}, {"name": "Zinedine", "github": "https://github.com/zinedinechm", "linkedin": "", "twitter": "", "website": "http://zinedine.ch", "devpost_profile": "https://devpost.com/zinedinechm"}]},
+        {"title": "Coach Spark", "tagline": "Less tired. More energy.", "url": "https://devpost.com/software/coach-spark", "github": "https://github.com/lucaguery/coach-spark", "external_links": ["https://github.com/lucaguery/coach-spark"], "built_with": ["python", "typescript"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Luca Guéry", "github": "https://github.com/lucaguery", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/lucaguery"}]},
+        {"title": "Babycare", "tagline": "Turn your baby's cries into clear insight.", "url": "https://devpost.com/software/babycare-734h8d", "github": "https://github.com/Utharushan/Alan-Mistral-Hackathon", "external_links": ["https://github.com/Utharushan/Alan-Mistral-Hackathon"], "built_with": ["python"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Célestin Herrenschmidt", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/celestin-herrenschmidt"}, {"name": "Jérémie Debras", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/jeremiedebras"}, {"name": "Tharushan UTHAYAKUMAR", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/tharushan-uthayakumar"}, {"name": "Luigi Revelli", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/luigi432"}, {"name": "matthias lee", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/matthiaslee-1234"}]},
+        {"title": "Next Level Rehab", "tagline": "The rehab coach that never cancels on you.", "url": "https://devpost.com/software/next-level-rehab", "github": "https://github.com/Aram2K/next-level-rehab/blob/main/README.md", "external_links": ["https://next-level-rehab.lovable.app", "https://github.com/Aram2K/next-level-rehab/blob/main/README.md"], "built_with": ["elevenlabs", "lovable", "mistral", "nebius", "react", "typescript"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Aram Adamyan", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/aramatamian15"}, {"name": "Agnès PERUZZETTO", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/agnes-peruzzetto"}, {"name": "Eduardo Bonnefemne", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/eduardo-bonnefemne"}]},
+        {"title": "HeyMo", "tagline": "A proactive AI agent that calls Alan members after a health event.", "url": "https://devpost.com/software/heymo", "github": "https://github.com/jolehuit/HEYMO/tree/main", "external_links": ["https://github.com/jolehuit/HEYMO/tree/main", "https://heymo.vercel.app"], "built_with": ["elevenlabs-tts", "linkup-api", "livekit", "mistral", "next.js", "python", "tailwind-css", "thryve-api", "typescript", "vercel"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Mujtaba Mohammad", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/mohammad-mujtaba"}, {"name": "Gabriel Leulmi", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/gabriel-leulmi"}, {"name": "Lenny Napieraj", "github": "https://github.com/Lennynpj", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/Lennynpj"}, {"name": "Max Penso", "github": "https://github.com/jolehuit", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/jolehuit"}]},
+        {"title": "Alan context", "tagline": "The health agent that calls you, because when you're burning out, you won't open the app.", "url": "https://devpost.com/software/alan-context", "github": "https://github.com/Symbioose/alan-context", "external_links": ["https://github.com/Symbioose/alan-context"], "built_with": ["javascript", "mistral", "python"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Emile Jouannet", "github": "https://github.com/Symbioose", "linkedin": "", "twitter": "", "website": "http://avis-genius.fr", "devpost_profile": "https://devpost.com/emilejouannet"}]},
+        {"title": "Nutrimo", "tagline": "A voice-first nutrition coach that turns your biomarkers into a daily ritual.", "url": "https://devpost.com/software/nutrimo", "github": "https://github.com/thibaultimbert/nutrimo", "external_links": ["https://github.com/thibaultimbert/nutrimo"], "built_with": ["claude", "mastra", "mistral"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Thibault Imbert", "github": "https://github.com/thibaultimbert", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/thibaultimbert"}]}
+      ]
+    },
+    {
+      "id": "devpost:57a61a3a9f8c",
+      "title": "Mistral AI Paris Hackathon",
+      "url": "https://mistralparishack.devpost.com/",
+      "platform": "devpost",
+      "city_fr": "Station F",
+      "location": "STATION F",
+      "is_online": false,
+      "start_date": "May 25 - 26, 2024",
+      "end_date": "",
+      "prize_pool": "$10,000",
+      "relevance_score": 59,
+      "ai_keywords_found": ["ai"],
+      "tools_found": ["Mistral", "Agents"],
+      "target_roles_found": [],
+      "projects_count": 24,
+      "winners_count": 4,
+      "projects": [
+        {"title": "Eyestral", "tagline": "Adding MultiModal Vision Capabilities to Mistral 7B to Help the Visually Impaired", "url": "https://devpost.com/software/eyestral", "github": "https://github.com/mert-delibalta/eyestral/tree/master", "external_links": ["https://github.com/mert-delibalta/eyestral/tree/master", "https://huggingface.co/datasets/malhajar/MistralHackathonDataset", "https://huggingface.co/malhajar/Eyestral", "https://pitch.com/v/ai-vision-in-mistral-3d4yfk"], "built_with": ["amazon-web-services", "cumo", "flask", "mistral", "sagemaker"], "is_winner": true, "winner_labels": ["Winner"], "participants": [{"name": "Taha Demirkan", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/taha352"}, {"name": "Mert Delibalta", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/mert-delibalta"}, {"name": "Stéphane", "github": "https://github.com/sboisson", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/sboisson"}, {"name": "Sriram Vadlamani", "github": "https://github.com/softmaxer", "linkedin": "https://www.linkedin.com/in/sriram-vadlamani", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/softmaxer"}]},
+        {"title": "Matou-Garou", "tagline": "Mafia game with humans and LLMs.", "url": "https://devpost.com/software/matou-garou", "github": "https://github.com/hynky1999/ai-town", "external_links": ["https://github.com/hynky1999/ai-town", "https://huggingface.co/spaces/hackathonM/Matou-Garou"], "built_with": ["huggingface", "mistral", "typescript"], "is_winner": true, "winner_labels": ["Winner"], "participants": [{"name": "Joffrey Thomas", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/joffrey666"}, {"name": "Julien-Rodriguez Rodriguez", "github": "https://github.com/Julien-Rodriguez", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/Julien-Rodriguez"}, {"name": "Hynek Kydlíček", "github": "https://github.com/hynky1999", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/hynky1999"}, {"name": "Cyril K", "github": "https://github.com/cyril-k", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/cyril-k"}, {"name": "Dexter Awoyemi", "github": "https://github.com/dextersjab", "linkedin": "https://www.linkedin.com/in/dexterawoyemi", "twitter": "https://twitter.com/DextersJab", "website": "https://platern.com", "devpost_profile": "https://devpost.com/dextersjab"}, {"name": "Stéphane", "github": "https://github.com/sboisson", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/sboisson"}, {"name": "afrodisac Gericke", "github": "https://github.com/afrodisac", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/afrodisac"}, {"name": "Théo MICHEL", "github": "https://github.com/theo-michel", "linkedin": "", "twitter": "", "website": "https://theo-michel.github.io/resume/", "devpost_profile": "https://devpost.com/theo64200"}, {"name": "Marie Garkavenko", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/garkav-m"}]},
+        {"title": "Arxflix", "tagline": "Transforming complex research papers into easy to follow 2 minutes videos.", "url": "https://devpost.com/software/arxflix", "github": "https://github.com/julien-blanchon/arxflix", "external_links": ["https://github.com/julien-blanchon/arxflix", "https://drive.google.com/drive/folders/1BAT8-_HX52r6_n-choGO-8WE7u-DxB3P", "https://huggingface.co/collections/MaziyarPanahi/mistralai-hackathon-665274c707cc2255ea423202", "https://wandb.ai/multivac/mistralai_hackathon"], "built_with": ["axolotl", "huggingface", "mistral", "nextjs", "node.js", "python", "pytorch", "tailwind"], "is_winner": true, "winner_labels": ["Winner"], "participants": [{"name": "Maziyar Panahi", "github": "https://github.com/maziyarpanahi", "linkedin": "http://www.linkedin.com/in/maziyarpanahi", "twitter": "https://twitter.com/maziyarpanahi", "website": "", "devpost_profile": "https://devpost.com/maziyarpanahi"}, {"name": "Tunji Abioye", "github": "https://github.com/Tunji17", "linkedin": "", "twitter": "", "website": "https://oyetunji.com/", "devpost_profile": "https://devpost.com/Tunji17"}, {"name": "Blanchon Blanchon", "github": "https://github.com/julien-blanchon", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/julien-blanchon"}, {"name": "David K.", "github": "https://github.com/Flopsky", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/Flopsky"}, {"name": "Stéphane", "github": "https://github.com/sboisson", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/sboisson"}, {"name": "Thomas de Magnienville", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/thomas-demagnienville"}, {"name": "Théo MICHEL", "github": "https://github.com/theo-michel", "linkedin": "", "twitter": "", "website": "https://theo-michel.github.io/resume/", "devpost_profile": "https://devpost.com/theo64200"}]},
+        {"title": "Le ChatOn Vision", "tagline": "Multi-modal RAG system for natural video analysis.", "url": "https://devpost.com/software/le-chat-on-vision", "github": "https://github.com/johanndiep/mistral_hackathon/tree/main", "external_links": ["https://github.com/johanndiep/mistral_hackathon/tree/main"], "built_with": ["drone", "embedding", "gradio", "groq", "llm", "mistral", "nebius", "neon", "python", "segmentation", "vllm"], "is_winner": true, "winner_labels": ["Winner"], "participants": [{"name": "Johann Diep", "github": "https://github.com/johanndiep", "linkedin": "https://www.linkedin.com/in/johann-diep/", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/johanndiep"}, {"name": "Maureen", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/maureen-nal"}, {"name": "Kim Borgen", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/kim279"}, {"name": "Stéphane", "github": "https://github.com/sboisson", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/sboisson"}, {"name": "Sofia Huppertz", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/sofia-huppertz"}, {"name": "Marie Garkavenko", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/garkav-m"}, {"name": "Aimé Risson", "github": "https://github.com/herissondev", "linkedin": "", "twitter": "", "website": "https://herisson.dev/", "devpost_profile": "https://devpost.com/herissondev"}, {"name": "Sriram Vadlamani", "github": "https://github.com/softmaxer", "linkedin": "https://www.linkedin.com/in/sriram-vadlamani", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/softmaxer"}]},
+        {"title": "Podcast Adblock", "tagline": "Listen to the podcast without ads, using LLMs.", "url": "https://devpost.com/software/podcast-adblock", "github": "", "external_links": ["https://huggingface.co/spaces/cvmistralparis/topnotchlabs"], "built_with": ["huggingface", "mistral", "whisper"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Alexandr Notchenko", "github": "https://github.com/gangiman", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/avnotchenko"}]},
+        {"title": "CampusBOLT", "tagline": "Saving students thousands of hours by centralising university registry info.", "url": "https://devpost.com/software/campusbolt", "github": "", "external_links": [], "built_with": ["lanchain", "mistral", "neon", "python", "streamlit"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Achilleas Drakou", "github": "https://github.com/AchilleasDrakou", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/AchilleasDrakou"}, {"name": "Poongkundran Thamaraiselvan", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/poonge1598"}, {"name": "Irene SUNNY", "github": "https://github.com/IreneSunny96", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/IreneSunny96"}]},
+        {"title": "Le Prof", "tagline": "An educational game that helps users improve their AI prompting skills.", "url": "https://devpost.com/software/le-prof", "github": "https://github.com/IronJayx/mistral-gagnants-submission", "external_links": ["https://github.com/IronJayx/mistral-gagnants-submission"], "built_with": ["node.js", "python"], "is_winner": false, "winner_labels": [], "participants": [{"name": "ArthurBrunswick", "github": "https://github.com/ArthurBrunswick", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/ArthurBrunswick"}, {"name": "Laila ELKOUSSY", "github": "https://github.com/lailanelkoussy", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/lailanelkoussy"}]},
+        {"title": "StudAI", "tagline": "Traditional methods of studying can be time-consuming.", "url": "https://devpost.com/software/studai-jqber3", "github": "https://github.com/EstienneG/hackaton-mistral-studai", "external_links": ["https://github.com/EstienneG/hackaton-mistral-studai"], "built_with": ["mistral", "python", "streamlit"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Estienne Goigoux", "github": "https://github.com/EstienneG", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/EstienneG"}, {"name": "Othmane Menkor", "github": "https://github.com/Othocs", "linkedin": "https://www.linkedin.com/in/othmane-menkor/", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/Othocs"}, {"name": "Dorian Boucher", "github": "https://github.com/dorianb04", "linkedin": "https://www.linkedin.com/in/dorian-boucher/", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/dorianb04"}]},
+        {"title": "MetaLearner", "tagline": "Copilot for data.", "url": "https://devpost.com/software/metalearner", "github": "https://github.com/orgs/Mistral-Hackathon/repositories", "external_links": ["https://github.com/orgs/Mistral-Hackathon/repositories"], "built_with": ["amazon-web-services", "cuda", "langchain", "mistral", "next", "nvidia", "optuna", "python", "rapids", "tailwind"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Ting Hui Lim", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/limtinghui21"}, {"name": "Tenzin Sim", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/tenzinsim"}]},
+        {"title": "DrepaAI", "tagline": "AI Companion for Sickle Cell Disease Patients and Doctors.", "url": "https://devpost.com/software/drepai", "github": "", "external_links": [], "built_with": ["langchain", "python", "streamlit"], "is_winner": false, "winner_labels": [], "participants": []},
+        {"title": "Poc IT", "tagline": "Poc IT simplifies ideation, design, and execution phases.", "url": "https://devpost.com/software/poc-it-hlfwj1", "github": "", "external_links": [], "built_with": ["go", "htmx", "javascript"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Sam Kar", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/samikarout"}]},
+        {"title": "EcoTrip", "tagline": "Eco-friendly flights, accommodations and activities.", "url": "https://devpost.com/software/ecotrip-czave4", "github": "https://github.com/MehdiBenAttia/EcoTrip", "external_links": ["https://github.com/MehdiBenAttia/EcoTrip"], "built_with": ["flask", "llm", "mistral", "python"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Mehdi Ben Attia", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/mehdi-benattia01"}]},
+        {"title": "Llamour", "tagline": "Talk 2 mins with Llamour. It clones your talking style.", "url": "https://devpost.com/software/llamour", "github": "https://github.com/thomaschlt/MistralAI-hackathon-StationF", "external_links": ["https://github.com/thomaschlt/MistralAI-hackathon-StationF", "https://github.com/theo-michel/L-amour/tree/flutterflow"], "built_with": ["flutter", "llama-groq", "mistral", "python", "vapi"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Théo MICHEL", "github": "https://github.com/theo-michel", "linkedin": "", "twitter": "", "website": "https://theo-michel.github.io/resume/", "devpost_profile": "https://devpost.com/theo64200"}, {"name": "Thomas Chimbault", "github": "", "linkedin": "https://www.linkedin.com/in/thomaschimbault/", "twitter": "https://twitter.com/erudictus", "website": "", "devpost_profile": "https://devpost.com/tchimbault-pro"}, {"name": "Simon dh", "github": "https://github.com/Simondharcourt", "linkedin": "", "twitter": "", "website": "https://simondharcourt.github.io/", "devpost_profile": "https://devpost.com/simondharcourt"}, {"name": "Théo Charlot", "github": "https://github.com/labicquette", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/komete17"}, {"name": "Gaurav Kandel", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/planeflyinsky"}, {"name": "Sriram Vadlamani", "github": "https://github.com/softmaxer", "linkedin": "https://www.linkedin.com/in/sriram-vadlamani", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/softmaxer"}]},
+        {"title": "Deep Thinker", "tagline": "Communicative Travel Planning Agents.", "url": "https://devpost.com/software/deep-thinker-communicative-travel-planning-agents", "github": "", "external_links": [], "built_with": ["camel", "python", "streamlit"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Ke Song", "github": "https://github.com/petitchamp", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/petitchamp"}, {"name": "Appointat Chen", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/appointat"}, {"name": "Shuxian LI", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/lsx_sandrine"}]},
+        {"title": "microcosm", "tagline": "Simulated parallel universe from within windows 95.", "url": "https://devpost.com/software/microcosm-f5gur1", "github": "https://github.com/vdeva/microcosm", "external_links": ["https://github.com/vdeva/microcosm"], "built_with": ["fastapi", "groq", "mistral", "nextjs", "postgresql", "python", "react", "tailwind", "typescript"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Val B", "github": "https://github.com/vdeva", "linkedin": "", "twitter": "https://twitter.com/onetwoval", "website": "", "devpost_profile": "https://devpost.com/onetwoval"}, {"name": "titouv Verhille", "github": "https://github.com/titouv", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/titouv"}, {"name": "Reda Arab", "github": "https://github.com/reda-arab", "linkedin": "https://www.linkedin.com/in/r%C3%A9daarab/", "twitter": "", "website": "https://reda-arab.github.io/", "devpost_profile": "https://devpost.com/reda-arab"}, {"name": "afrodisac Gericke", "github": "https://github.com/afrodisac", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/afrodisac"}, {"name": "Théo MICHEL", "github": "https://github.com/theo-michel", "linkedin": "", "twitter": "", "website": "https://theo-michel.github.io/resume/", "devpost_profile": "https://devpost.com/theo64200"}]},
+        {"title": "PatentBusters", "tagline": "Revolutionizing Patent Searches with AI-Powered Insights.", "url": "https://devpost.com/software/patentbusters", "github": "https://github.com/PatentBusters/development", "external_links": ["https://github.com/PatentBusters/development"], "built_with": ["gradio", "langchain", "mistral", "python", "rag"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Aurélien-Morgan CLAUDON", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/aurelien_claudon"}, {"name": "Luka Lafaye de Micheaux", "github": "https://github.com/lukalafaye", "linkedin": "", "twitter": "", "website": "https://lukalafaye.github.io", "devpost_profile": "https://devpost.com/lukalafaye"}, {"name": "nels samu", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/samuel-iyamu2"}]},
+        {"title": "Octopus", "tagline": "Fast, reliable and interesting information about the actuality.", "url": "https://devpost.com/software/octopus-qvhz1d", "github": "https://github.com/blefo/Octopus", "external_links": ["https://github.com/blefo/Octopus"], "built_with": ["django", "gnews", "groq", "mistral", "postgresql", "python", "svelte"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Baptiste Lefort", "github": "https://github.com/blefo", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/blefo"}, {"name": "Aimé Risson", "github": "https://github.com/herissondev", "linkedin": "", "twitter": "", "website": "https://herisson.dev/", "devpost_profile": "https://devpost.com/herissondev"}]},
+        {"title": "Patit.ai", "tagline": "Idea to Patent at coffee time.", "url": "https://devpost.com/software/patit-ai", "github": "https://github.com/aitazzi/patit.ai", "external_links": ["https://github.com/aitazzi/patit.ai"], "built_with": ["chromadb", "faiss", "langchain", "mistral", "python"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Ngawang DEMPA TSANG", "github": "https://github.com/ngawang21", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/ngawangmaths"}, {"name": "Abderrahim AIT AZZI", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/aitazzi-abderrahim"}, {"name": "Paul BU", "github": "", "linkedin": "http://www.linkedin.com/in/paul-bu-334189296", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/buguangtao"}]},
+        {"title": "OSS Hunt", "tagline": "Open Source Community Agent.", "url": "https://devpost.com/software/oss-hunt", "github": "https://github.com/camel-ai/camel/tree/integrate_mistral/examples/mistral", "external_links": ["https://github.com/camel-ai/camel/tree/integrate_mistral/examples/mistral"], "built_with": ["camel", "mistralapi", "python"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Douglas Lai", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/yueming-lai"}, {"name": "Ruslan Serebriakov", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/rsrbk1"}, {"name": "ROMAN J. GEORGIO", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/romanjgeorgio"}, {"name": "Guohao Li", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/lightaime"}]},
+        {"title": "Mono-llm-poly", "tagline": "An LLM using text to play monopoly.", "url": "https://devpost.com/software/mono-llm-poly", "github": "https://github.com/Eric-the-Geric/MistralHackathon", "external_links": ["https://github.com/Eric-the-Geric/MistralHackathon"], "built_with": ["mistral", "python", "selenium"], "is_winner": false, "winner_labels": [], "participants": [{"name": "afrodisac Gericke", "github": "https://github.com/afrodisac", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/afrodisac"}, {"name": "Matthieu Bezard", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/matthieu-bezard92"}, {"name": "martin schuele", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/schuelem"}]},
+        {"title": "MistralFoot", "tagline": "AI football commentary.", "url": "https://devpost.com/software/mistralcommentator", "github": "https://github.com/iliasslasri/Mistral.ai-hackathon", "external_links": ["https://github.com/iliasslasri/Mistral.ai-hackathon"], "built_with": ["mistral", "nebius", "yolo"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Amir Braham", "github": "https://github.com/AmirBraham", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/AmirBraham"}, {"name": "Vincent Templier", "github": "https://github.com/vtemplier", "linkedin": "http://www.linkedin.com/in/vincent-templier", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/vtemplier"}, {"name": "Chems Ben", "github": "https://github.com/chemousesi", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/chemousesi"}, {"name": "ILIASS LASRI", "github": "https://github.com/iliasslasri", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/iliasslasri"}, {"name": "Stéphane", "github": "https://github.com/sboisson", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/sboisson"}]},
+        {"title": "ArtAcademia", "tagline": "Socrates: a learning assistant built with Streamlit & LangChain & Groq AI.", "url": "https://devpost.com/software/artacademia", "github": "https://github.com/tvbv/ArtAcademia", "external_links": ["https://github.com/tvbv/ArtAcademia", "https://artacademia-etgorlovgbyjjsznusj9yv.streamlit.app/"], "built_with": ["chroma", "groq", "groq-ai", "hashlib", "json", "langchain", "lxml", "mistralai", "mistralaiembeddings", "pypdfloader", "python", "recursivecharactertextsplitter", "streamlit", "tensorflow"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Clément Simon", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/clementsimon1"}, {"name": "Ena Rajović", "github": "https://github.com/Aphanite", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/Aphanite"}, {"name": "glenzo Carter", "github": "https://github.com/glenzo", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/glenzo"}, {"name": "Thomas Bersani Veroni", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/thomas-bersaniveroni"}]},
+        {"title": "ReMi", "tagline": "Optimized grocery lists from unstructured ingredient lists.", "url": "https://devpost.com/software/remi-tulosb", "github": "https://github.com/Serbernari/MistralAI_hack", "external_links": ["https://github.com/Serbernari/MistralAI_hack", "https://remi-mistral.streamlit.app/"], "built_with": ["accelerate", "flask", "mistral", "python", "streamlit", "transformers", "wandb"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Anna Mosolova", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/anya-bel"}, {"name": "Sergey Berezin", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/sergeyberezin123"}, {"name": "Xin Chen", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/xin-chen"}, {"name": "Stéphane", "github": "https://github.com/sboisson", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/sboisson"}]},
+        {"title": "Sencha", "tagline": "Your daily cup of creativity.", "url": "https://devpost.com/software/teamsencha", "github": "", "external_links": ["https://sencha.devniel.com/"], "built_with": ["api", "diffusion", "django", "eleven", "grok", "labs", "mistral", "next.js", "python", "stable"], "is_winner": false, "winner_labels": [], "participants": [{"name": "Thomas Bazeille", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/bazeille-thomas"}, {"name": "Max Dunhill", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/maxdunhill1990"}, {"name": "Clément Ménassé", "github": "", "linkedin": "", "twitter": "", "website": "", "devpost_profile": "https://devpost.com/clement-menasse"}, {"name": "Daniel Flores", "github": "https://github.com/devniel", "linkedin": "", "twitter": "", "website": "https://devniel.com", "devpost_profile": "https://devpost.com/devniel"}]}
+      ]
+    },
+    {"id": "devpost:e378d350afda", "title": "Mistral AI Hackathon: Gaming edition", "url": "https://mistral-ai-hackathon-gaming.devpost.com/", "platform": "devpost", "city_fr": "Paris", "location": "Paris", "is_online": false, "start_date": "Jan 24 - 26, 2025", "end_date": "", "prize_pool": "€5,000", "relevance_score": 59, "ai_keywords_found": ["ai"], "tools_found": ["Mistral", "Agents"], "target_roles_found": [], "projects_count": 0, "winners_count": 0, "projects": []},
+    {"id": "ai_tinkerers:3a79ec87d84b", "title": "AI Builders Meetup Paris - OpenClaw (featuring 42 AI & HEC Vibe)", "url": "https://paris.aitinkerers.org/p/ai-builders-meetup-paris-autonomous-agents-openclaw", "platform": "ai_tinkerers", "city_fr": "Paris", "location": "paris", "is_online": false, "start_date": "", "end_date": "", "prize_pool": "", "relevance_score": 58, "ai_keywords_found": ["ai", "agents"], "tools_found": ["Agents"], "target_roles_found": [], "projects_count": 0, "winners_count": 0, "projects": []},
+    {"id": "ai_tinkerers:da9439b32265", "title": "ElevenLabs Worldwide Hackathon", "url": "https://paris.aitinkerers.org/p/elevenlabs-global-hackathon-paris", "platform": "ai_tinkerers", "city_fr": "Paris", "location": "paris", "is_online": false, "start_date": "", "end_date": "", "prize_pool": "", "relevance_score": 58, "ai_keywords_found": ["agents"], "tools_found": ["Agents"], "target_roles_found": [], "projects_count": 0, "winners_count": 0, "projects": []},
+    {"id": "ai_tinkerers:228922a3cfe6", "title": "SundAI Hack x AIT: OpenClaw Sprint #2", "url": "https://paris.aitinkerers.org/p/sundai-hack-x-ait-openclaw-sprint-2", "platform": "ai_tinkerers", "city_fr": "Paris", "location": "paris", "is_online": false, "start_date": "", "end_date": "", "prize_pool": "", "relevance_score": 54, "ai_keywords_found": [], "tools_found": ["Agents"], "target_roles_found": [], "projects_count": 0, "winners_count": 0, "projects": []},
+    {"id": "ai_tinkerers:b38e1cd821f7", "title": "SundAI x Spring Epic Sprint 1.1.2: Startup track", "url": "https://paris.aitinkerers.org/p/sundai-x-spring-epic-sprint-1-1-2-startup-track", "platform": "ai_tinkerers", "city_fr": "Paris", "location": "paris", "is_online": false, "start_date": "", "end_date": "", "prize_pool": "", "relevance_score": 33, "ai_keywords_found": ["ai", "generative ai"], "tools_found": [], "target_roles_found": [], "projects_count": 0, "winners_count": 0, "projects": []},
+    {"id": "ai_tinkerers:b6a1b6f478b9", "title": "SundAI x Spring Epic Sprint 1.1.1: Startup track", "url": "https://paris.aitinkerers.org/p/sundai-x-spring-epic-sprint-1-1-1-hacker-combinator", "platform": "ai_tinkerers", "city_fr": "Paris", "location": "paris", "is_online": false, "start_date": "", "end_date": "", "prize_pool": "", "relevance_score": 33, "ai_keywords_found": ["ai", "generative ai"], "tools_found": [], "target_roles_found": [], "projects_count": 0, "winners_count": 0, "projects": []},
+    {"id": "ai_tinkerers:8402215c8182", "title": "SundAI x Spring Epic Sprint 1.1.3: Startup track", "url": "https://paris.aitinkerers.org/p/sundai-x-spring-epic-sprint-1-1-3-startup-track", "platform": "ai_tinkerers", "city_fr": "Paris", "location": "paris", "is_online": false, "start_date": "", "end_date": "", "prize_pool": "", "relevance_score": 29, "ai_keywords_found": ["ai"], "tools_found": [], "target_roles_found": [], "projects_count": 0, "winners_count": 0, "projects": []},
+    {"id": "ai_tinkerers:13f7b834f55c", "title": "Benchmarking Small Language Models in the Real World - Hackathon featuring OSMOZ", "url": "https://paris.aitinkerers.org/p/hackathon-benchmarking-small-language-models-in-the-real-world", "platform": "ai_tinkerers", "city_fr": "Paris", "location": "paris", "is_online": false, "start_date": "", "end_date": "", "prize_pool": "", "relevance_score": 29, "ai_keywords_found": ["ai"], "tools_found": [], "target_roles_found": [], "projects_count": 0, "winners_count": 0, "projects": []},
+    {"id": "ai_tinkerers:6d77b11a13fd", "title": "High-Performance Local AI Development: Kick-off ThinkStation PGX", "url": "https://paris.aitinkerers.org/p/high-performance-local-ai-development-kick-off-thinkstation-pgx", "platform": "ai_tinkerers", "city_fr": "Paris", "location": "paris", "is_online": false, "start_date": "", "end_date": "", "prize_pool": "", "relevance_score": 29, "ai_keywords_found": ["ai"], "tools_found": [], "target_roles_found": [], "projects_count": 0, "winners_count": 0, "projects": []},
+    {"id": "ai_tinkerers:82245665106c", "title": "OpenClaw Global Unhackathon", "url": "https://paris.aitinkerers.org/p/openclaw-global-unhackathon-paris", "platform": "ai_tinkerers", "city_fr": "Paris", "location": "paris", "is_online": false, "start_date": "", "end_date": "", "prize_pool": "", "relevance_score": 29, "ai_keywords_found": [], "tools_found": [], "target_roles_found": [], "projects_count": 0, "winners_count": 0, "projects": []},
+    {"id": "devpost:227c4c88a35c", "title": "Paris Fintech Hackathon 2026", "url": "https://paris-fintech-hackathon-2026.devpost.com/", "platform": "devpost", "city_fr": "Paris", "location": "HEC paris", "is_online": false, "start_date": "Apr 25 - 26, 2026", "end_date": "", "prize_pool": "$21,000", "relevance_score": 25, "ai_keywords_found": [], "tools_found": ["Agents"], "target_roles_found": [], "projects_count": 0, "winners_count": 0, "projects": []},
+    {"id": "devpost:736f351c49c4", "title": "HackEurope", "url": "https://hackeurope.devpost.com/", "platform": "devpost", "city_fr": "Paris", "location": "Dublin, Paris, Stockholm", "is_online": false, "start_date": "Feb 21 - 22, 2026", "end_date": "", "prize_pool": "€50,500", "relevance_score": 25, "ai_keywords_found": [], "tools_found": ["Agents"], "target_roles_found": [], "projects_count": 0, "winners_count": 0, "projects": []},
+    {"id": "devpost:56d436511389", "title": "Paris Innov'Hack", "url": "https://paris-innov-hack.devpost.com/", "platform": "devpost", "city_fr": "Paris", "location": "Lycée Passy Saint-Honoré, Paris 16e", "is_online": false, "start_date": "Jan 17, 2026", "end_date": "", "prize_pool": "$0", "relevance_score": 25, "ai_keywords_found": [], "tools_found": ["Agents"], "target_roles_found": [], "projects_count": 0, "winners_count": 0, "projects": []},
+    {"id": "devpost:2fad49289087", "title": "WearHacks Paris", "url": "https://wearhacks-paris.devpost.com/", "platform": "devpost", "city_fr": "Paris", "location": "Paris, France", "is_online": false, "start_date": "May 21 - 24, 2015", "end_date": "", "prize_pool": "$2,128", "relevance_score": 25, "ai_keywords_found": [], "tools_found": ["Agents"], "target_roles_found": [], "projects_count": 0, "winners_count": 0, "projects": []},
+    {"id": "devpost:322e7ab9b901", "title": "FinanceAI Telecom Paris Hackathon", "url": "https://financeai-hackathon.devpost.com/", "platform": "devpost", "city_fr": "Paris", "location": "TELECOM Paris", "is_online": false, "start_date": "May 15, 2025", "end_date": "", "prize_pool": "€2,000", "relevance_score": 25, "ai_keywords_found": [], "tools_found": ["Agents"], "target_roles_found": [], "projects_count": 0, "winners_count": 0, "projects": []},
+    {"id": "devpost:3c366afa47bf", "title": "Specs in the City: Paris Hackathon", "url": "https://specsinthecity-paris.devpost.com/", "platform": "devpost", "city_fr": "Paris", "location": "Snap Paris Office", "is_online": false, "start_date": "Nov 06 - 07, 2025", "end_date": "", "prize_pool": "$0", "relevance_score": 25, "ai_keywords_found": [], "tools_found": ["Agents"], "target_roles_found": [], "projects_count": 0, "winners_count": 0, "projects": []},
+    {"id": "devpost:7b4c98a70104", "title": "Zk Circuit", "url": "https://zk-circuit.devpost.com/", "platform": "devpost", "city_fr": "Paris", "location": "Paris, France", "is_online": false, "start_date": "Jul 19 - 25, 2022", "end_date": "", "prize_pool": "$5,000", "relevance_score": 25, "ai_keywords_found": [], "tools_found": ["Agents"], "target_roles_found": [], "projects_count": 0, "winners_count": 0, "projects": []},
+    {"id": "devpost:96078e40aaa2", "title": "Augment", "url": "https://augmenthack.devpost.com/", "platform": "devpost", "city_fr": "Station F", "location": "Station F", "is_online": false, "start_date": "Jul 18 - 19, 2023", "end_date": "", "prize_pool": "$46,250", "relevance_score": 25, "ai_keywords_found": [], "tools_found": ["Agents"], "target_roles_found": [], "projects_count": 0, "winners_count": 0, "projects": []},
+    {"id": "devpost:8077d7cf9b0a", "title": "Code for Notre Dame with IBM", "url": "https://code-for-notre-dame.devpost.com/", "platform": "devpost", "city_fr": "Paris", "location": "Le Village by CA Paris", "is_online": false, "start_date": "Jun 24, 2019", "end_date": "", "prize_pool": "€1,500", "relevance_score": 25, "ai_keywords_found": [], "tools_found": ["Agents"], "target_roles_found": [], "projects_count": 0, "winners_count": 0, "projects": []},
+    {"id": "devpost:1f29a1a8f003", "title": "Krypto-Hack Lyon", "url": "https://krypto-hack.devpost.com/", "platform": "devpost", "city_fr": "Lyon", "location": "INSA de Lyon, Campus de la Doua", "is_online": false, "start_date": "Mar 28 - Apr 16, 2022", "end_date": "", "prize_pool": "$40,000", "relevance_score": 25, "ai_keywords_found": [], "tools_found": ["Agents"], "target_roles_found": [], "projects_count": 0, "winners_count": 0, "projects": []},
+    {"id": "devpost:f4842f4841b2", "title": "MARGO Telecom-AI Hackathon 2025", "url": "https://margo-telecom-ai-2025.devpost.com/", "platform": "devpost", "city_fr": "Paris", "location": "Telecom Paris", "is_online": false, "start_date": "May 23 - 25, 2025", "end_date": "", "prize_pool": "€1,600", "relevance_score": 25, "ai_keywords_found": [], "tools_found": ["Agents"], "target_roles_found": [], "projects_count": 0, "winners_count": 0, "projects": []}
+  ]
+}
